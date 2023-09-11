@@ -11,5 +11,5 @@
 </html>
 
 <?php
- $zeep = 1;
+ $beep = 1;
 ?>
