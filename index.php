@@ -9,3 +9,7 @@
  <h1>meep</h1>
 </body>
 </html>
+
+<?php
+ $meep = 1;
+?>
