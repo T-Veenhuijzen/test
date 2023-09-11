@@ -11,5 +11,5 @@
 </html>
 
 <?php
- $meep = 1;
+ $zeep = 1;
 ?>
